@@ -51,9 +51,7 @@ public class HelloWorld {
         System.out.println("Die Fläche des Kreises sind: " + circleArea + " FE");
 
         // Schritt 2: Addiere die Werte von 'a' und 'b' und speichere das Ergebnis in einer neuen Variable 'sum'.
-
         // Schritt 3: Gib den Wert von 'sum' auf der Konsole aus, zusammen mit dem Text 'Summe: '.
-
 
     }
 
